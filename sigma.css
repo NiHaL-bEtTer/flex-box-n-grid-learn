@@ -1,0 +1,28 @@
+body {
+    margin: 0px;
+}
+
+html {
+    box-sizing: border-box;
+    padding: 10px;
+    border: 2px solid black;
+}
+.nav-bar {
+    
+    
+    background-color: #07575B;
+    height: 200px;
+    margin: 10px;
+    padding-top: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav-bar ul {
+    display: inline-block;
+    background-color: #66A5AD;
+    text-align: center;
+    padding: 20px;
+    margin: 0px 5px 5px 5px ;
+    color: aliceblue;
+    border: 3px solid;
+}
